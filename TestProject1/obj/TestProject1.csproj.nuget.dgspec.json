@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/KHPK.RU/student/RiderProjects/Primer/TestProject1/TestProject1.csproj": {}
+  },
+  "projects": {
+    "/home/KHPK.RU/student/RiderProjects/Primer/Primer/Primer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/KHPK.RU/student/RiderProjects/Primer/Primer/Primer.csproj",
+        "projectName": "Primer",
+        "projectPath": "/home/KHPK.RU/student/RiderProjects/Primer/Primer/Primer.csproj",
+        "packagesPath": "/home/KHPK.RU/student/.nuget/packages/",
+        "outputPath": "/home/KHPK.RU/student/RiderProjects/Primer/Primer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/KHPK.RU/student/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/KHPK.RU/student/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/KHPK.RU/student/RiderProjects/Primer/TestProject1/TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/KHPK.RU/student/RiderProjects/Primer/TestProject1/TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "/home/KHPK.RU/student/RiderProjects/Primer/TestProject1/TestProject1.csproj",
+        "packagesPath": "/home/KHPK.RU/student/.nuget/packages/",
+        "outputPath": "/home/KHPK.RU/student/RiderProjects/Primer/TestProject1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/KHPK.RU/student/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/KHPK.RU/student/RiderProjects/Primer/Primer/Primer.csproj": {
+                "projectPath": "/home/KHPK.RU/student/RiderProjects/Primer/Primer/Primer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/KHPK.RU/student/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
