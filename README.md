@@ -1,1 +1,5 @@
 ![image](https://github.com/Wastopous/P/assets/102659233/98a612e2-d824-4138-9aeb-a916e5c8ba7c)
+![image](https://github.com/Wastopous/P/assets/102659233/8f515d11-a563-46a0-bb6e-3e853731d937)
+![image](https://github.com/Wastopous/P/assets/102659233/78b8bbf9-ccf8-4c95-ad75-31ae84e65583)
+![image](https://github.com/Wastopous/P/assets/102659233/8a0a5c9b-dbd6-4a7c-b501-f848f352a1a5)
+![image](https://github.com/Wastopous/P/assets/102659233/2a026a8d-21e9-4025-bec3-60cd0b3bf9a5)
