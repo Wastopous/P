@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primer", "Primer\Primer.csproj", "{F9449A9F-616B-490E-A9C0-26393B9E8539}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W", "W\W.csproj", "{F9449A9F-616B-490E-A9C0-26393B9E8539}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{84A25081-D94A-40AF-979B-4F390018029A}"
 EndProject
